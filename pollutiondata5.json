@@ -1,0 +1,292 @@
+{"Pollution":
+{ 
+"Jan 2004":
+{"Nizamuddin":138,"Shahzada Bagh":134,"Shahdara":161,"Janakpuri":111,"SiriFort":105},
+"Feb 2004":
+{"Nizamuddin":96,"Shahzada Bagh":126,"Shahdara":137,"Janakpuri":86,"SiriFort":99},
+"Mar 2004":
+{"Nizamuddin":139,"Shahzada Bagh":154,"Shahdara":127,"Janakpuri":184,"SiriFort":138},
+"Apr 2004":
+{"Nizamuddin":142,"Shahzada Bagh":154,"Shahdara":133,"Janakpuri":238,"SiriFort":119},
+"May 2004":
+{"Nizamuddin":230,"Shahzada Bagh":108,"Shahdara":165,"Janakpuri":115,"SiriFort":131},
+"Jun 2004":
+{"Nizamuddin":122,"Shahzada Bagh":102,"Shahdara":86,"Janakpuri":320,"SiriFort":102},
+"Jul 2004":
+{"Nizamuddin":117,"Shahzada Bagh":125,"Shahdara":148,"Janakpuri":187,"SiriFort":139},
+"Aug 2004":
+{"Nizamuddin":65,"Shahzada Bagh":106,"Shahdara":62,"Janakpuri":44,"SiriFort":50},
+"Sep 2004":
+{"Nizamuddin":112,"Shahzada Bagh":103,"Shahdara":86,"Janakpuri":99,"SiriFort":105},
+"Oct 2004":
+{"Nizamuddin":138,"Shahzada Bagh":132,"Shahdara":90,"Janakpuri":115,"SiriFort":116},
+"Nov 2004":
+{"Nizamuddin":141,"Shahzada Bagh":211,"Shahdara":173,"Janakpuri":125,"SiriFort":211},
+"Dec 2004":
+{"Nizamuddin":160,"Shahzada Bagh":227,"Shahdara":199,"Janakpuri":154,"SiriFort":215},
+"Jan 2005":
+{"Nizamuddin":126,"Shahzada Bagh":126,"Shahdara":114,"Janakpuri":113,"SiriFort":127,"SarojiniNagar":180,"ChandniChowk":228,"Mayapuri":255},
+"Feb 2005":
+{"Nizamuddin":85,"Shahzada Bagh":100,"Shahdara":135,"Janakpuri":75,"SiriFort":86,"SarojiniNagar":126,"ChandniChowk":135,"Mayapuri":160},
+"Mar 2005":
+{"Nizamuddin":89,"Shahzada Bagh":99,"Shahdara":123,"Janakpuri":151,"SiriFort":92,"SarojiniNagar":101,"ChandniChowk":122,"Mayapuri":161},
+"Apr 2005":
+{"Nizamuddin":127,"Shahzada Bagh":134,"Shahdara":253,"Janakpuri":222,"SiriFort":116,"ChandniChowk":186,"Mayapuri":234},
+"May 2005":
+{"Nizamuddin":99,"Shahzada Bagh":136,"Shahdara":150,"Janakpuri":97,"SiriFort":91,"SarojiniNagar":116,"ChandniChowk":119,"Mayapuri":263},
+"Jun 2005":
+{"Nizamuddin":81,"Shahzada Bagh":114,"Shahdara":135,"Janakpuri":140,"SiriFort":113,"ChandniChowk":149,"Mayapuri":270},
+"Jul 2005":
+{"Nizamuddin":62,"Shahzada Bagh":91,"Shahdara":100,"Janakpuri":155,"SiriFort":63,"SarojiniNagar":66,"ChandniChowk":52,"Mayapuri":109},
+"Aug 2005":
+{"Nizamuddin":75,"Shahzada Bagh":92,"Shahdara":87,"Janakpuri":107,"SiriFort":65,"SarojiniNagar":53,"ChandniChowk":57,"Mayapuri":88},
+"Sep 2005":
+{"Nizamuddin":70,"Shahzada Bagh":78,"Shahdara":77,"Janakpuri":96,"SiriFort":63,"SarojiniNagar":60,"ChandniChowk":61,"Mayapuri":92},
+"Oct 2005":
+{"Nizamuddin":142,"Shahzada Bagh":141,"Shahdara":136,"Janakpuri":101,"SiriFort":124,"SarojiniNagar":144,"ChandniChowk":212,"Mayapuri":275},
+"Nov 2005":
+{"SarojiniNagar":170,"ChandniChowk":247,"Mayapuri":353},
+"Dec 2005":
+{"SarojiniNagar":298,"ChandniChowk":433,"Mayapuri":557},
+"Jan 2006":
+{"Nizamuddin":144,"Shahzada Bagh":210,"Shahdara":153,"Janakpuri":167,"SiriFort":136,"SarojiniNagar":253,"ChandniChowk":254,"Mayapuri":296},
+"Feb 2006":
+{"Nizamuddin":162,"Shahzada Bagh":203,"Shahdara":156,"Janakpuri":180,"SiriFort":138,"SarojiniNagar":205,"ChandniChowk":182,"Mayapuri":287},
+"Mar 2006":
+{"Nizamuddin":103,"Shahzada Bagh":147,"Shahdara":108,"Janakpuri":98,"SiriFort":193,"SarojiniNagar":149,"ChandniChowk":148,"Mayapuri":225},
+"Apr 2006":
+{"Nizamuddin":136,"Shahzada Bagh":174,"Shahdara":218,"Janakpuri":150,"SiriFort":120,"SarojiniNagar":227,"ChandniChowk":223,"Mayapuri":268},
+"May 2006":
+{"Nizamuddin":103,"Shahzada Bagh":156,"Shahdara":124,"Janakpuri":143,"SiriFort":109,"SarojiniNagar":181,"ChandniChowk":163,"Mayapuri":204},
+"Jun 2006":
+{"Nizamuddin":128,"Shahdara":182,"Janakpuri":185,"SiriFort":151,"ChandniChowk":96,"Pitampura":172},
+"Jul 2006":
+{"Nizamuddin":60,"Shahzada Bagh":212,"Shahdara":188,"Janakpuri":148,"SiriFort":55,"Pitampura":101},
+"Aug 2006":
+{"Nizamuddin":34,"Shahzada Bagh":51,"Shahdara":58,"Janakpuri":95,"SiriFort":50,"Pitampura":60},
+"Sep 2006":
+{"Nizamuddin":86,"Shahzada Bagh":100,"Shahdara":119,"Janakpuri":72,"SiriFort":66,"Pitampura":97},
+"Oct 2006":
+{"Nizamuddin":175,"Shahzada Bagh":183,"Shahdara":142,"Janakpuri":199,"SiriFort":292,"Pitampura":181},
+"Nov 2006":
+{"Nizamuddin":202,"Shahzada Bagh":172,"Shahdara":258,"Janakpuri":233,"SiriFort":232,"Pitampura":175},
+"Dec 2006":
+{"Nizamuddin":110,"Shahzada Bagh":209,"Shahdara":198,"Janakpuri":169,"SiriFort":230,"Pitampura":131},
+"Jan 2007":
+{"Nizamuddin":148,"Shahzada Bagh":176,"Shahdara":269,"Janakpuri":206,"SiriFort":250,"Pitampura":111},
+"Feb 2007":
+{"Shahzada Bagh":121,"Shahdara":201,"Janakpuri":172,"SiriFort":183,"SarojiniNagar":146,"ChandniChowk":174,"Mayapuri":145,"Pitampura":97},
+"Mar 2007":
+{"Nizamuddin":90,"Shahzada Bagh":110,"Shahdara":115,"Janakpuri":100,"SiriFort":97,"ChandniChowk":128,"Mayapuri":76,"Pitampura":213},
+"Apr 2007":
+{"Nizamuddin":215,"Shahzada Bagh":174,"Shahdara":143,"Janakpuri":157,"SiriFort":300,"Mayapuri":125,"Pitampura":357},
+"May 2007":
+{"Nizamuddin":114,"Shahzada Bagh":130,"Janakpuri":135,"SiriFort":208,"SarojiniNagar":109,"ChandniChowk":104,"Pitampura":222},
+"Jun 2007":
+{"Nizamuddin":97,"Shahzada Bagh":107,"Shahdara":146,"Janakpuri":108,"SiriFort":202,"Pitampura":187},
+"Jul 2007":
+{"Nizamuddin":70,"Shahzada Bagh":72,"Shahdara":75,"Janakpuri":78,"SiriFort":109,"Pitampura":65},
+"Aug 2007":
+{"Nizamuddin":37,"Shahzada Bagh":62,"Shahdara":85,"Janakpuri":74,"SiriFort":97,"SarojiniNagar":81,"ChandniChowk":95,"Mayapuri":69,"Pitampura":43},
+"Sep 2007":
+{"Nizamuddin":60,"Shahzada Bagh":72,"Shahdara":100,"Janakpuri":70,"SiriFort":94,"Pitampura":46},
+"Oct 2007":
+{"Nizamuddin":70,"Shahzada Bagh":143,"Shahdara":198,"Janakpuri":152,"SiriFort":295,"SarojiniNagar":223,"ChandniChowk":374,"Mayapuri":225,"Pitampura":202},
+"Nov 2007":
+{"Nizamuddin":225,"Shahzada Bagh":347,"Shahdara":289,"Janakpuri":306,"SiriFort":262,"SarojiniNagar":464,"ChandniChowk":531,"Pitampura":349},
+"Dec 2007":
+{"Nizamuddin":142,"Shahzada Bagh":279,"Shahdara":199,"Janakpuri":238,"SiriFort":196,"SarojiniNagar":393,"ChandniChowk":409,"Pitampura":234},
+"Jan 2008":
+{"Nizamuddin":99,"Shahzada Bagh":233,"Shahdara":157,"Janakpuri":219,"SiriFort":235,"ChandniChowk":300,"Mayapuri":297,"Pitampura":154},
+"Feb 2008":
+{"Shahzada Bagh":172,"Shahdara":247,"Janakpuri":196,"SiriFort":179,"ChandniChowk":318,"Mayapuri":260,"Pitampura":136},
+"Mar 2008":
+{"Shahzada Bagh":225,"Shahdara":263,"Janakpuri":241,"SiriFort":206,"SarojiniNagar":267,"ChandniChowk":285,"Mayapuri":283,"Pitampura":138},
+"Apr 2008":
+{"Shahzada Bagh":113,"Shahdara":206,"Janakpuri":189,"SiriFort":197,"SarojiniNagar":160,"ChandniChowk":270,"Mayapuri":279,"Pitampura":168},
+"May 2008":
+{"Shahzada Bagh":216,"Shahdara":224,"Janakpuri":223,"SiriFort":298,"SarojiniNagar":284,"ChandniChowk":327,"Mayapuri":329,"Pitampura":221},
+"Jun 2008":
+{"Nizamuddin":93,"Shahzada Bagh":152,"Shahdara":167,"Janakpuri":152,"SiriFort":127,"SarojiniNagar":88,"ChandniChowk":125,"Mayapuri":157,"Pitampura":95},
+"Jul 2008":
+{"Nizamuddin":52,"Shahzada Bagh":124,"Shahdara":115,"Janakpuri":96,"SiriFort":113,"SarojiniNagar":74,"ChandniChowk":164,"Mayapuri":179,"Pitampura":109},
+"Aug 2008":
+{"Nizamuddin":94,"Shahzada Bagh":152,"Shahdara":115,"Janakpuri":140,"SiriFort":134,"SarojiniNagar":56,"ChandniChowk":149,"Mayapuri":106,"Pitampura":97},
+"Sep 2008":
+{"Nizamuddin":146,"Shahzada Bagh":116,"Shahdara":117,"Janakpuri":171,"SiriFort":159,"SarojiniNagar":102,"ChandniChowk":135,"Mayapuri":187,"Pitampura":101},
+"Oct 2008":
+{"Nizamuddin":373,"Shahzada Bagh":230,"Shahdara":289,"Janakpuri":379,"SiriFort":343,"SarojiniNagar":191,"ChandniChowk":406,"Mayapuri":323,"Pitampura":232},
+"Nov 2008":
+{"Nizamuddin":394,"Shahzada Bagh":412,"Shahdara":340,"Janakpuri":344,"SiriFort":285,"SarojiniNagar":338,"ChandniChowk":471,"Mayapuri":345,"Pitampura":226},
+"Dec 2008":
+{"Nizamuddin":260,"Shahzada Bagh":300,"Shahdara":297,"Janakpuri":255,"SiriFort":304,"SarojiniNagar":268,"ChandniChowk":380,"Mayapuri":407,"Pitampura":231},
+"Jan 2009":
+{"Nizamuddin":265,"Shahzada Bagh":277,"Shahdara":225,"Janakpuri":355,"SiriFort":302,"SarojiniNagar":172,"ChandniChowk":316,"Mayapuri":315,"Pitampura":194},
+"Feb 2009":
+{"Nizamuddin":417,"Shahzada Bagh":229,"Shahdara":210,"Janakpuri":358,"SiriFort":325,"SarojiniNagar":154,"ChandniChowk":311,"Mayapuri":288,"Pitampura":196},
+"Mar 2009":
+{"Nizamuddin":348,"Shahzada Bagh":249,"Shahdara":188,"Janakpuri":288,"SiriFort":339,"SarojiniNagar":198,"ChandniChowk":336,"Mayapuri":256,"Pitampura":213},
+"Apr 2009":
+{"Nizamuddin":324,"Shahzada Bagh":235,"Shahdara":251,"Janakpuri":313,"SiriFort":316,"SarojiniNagar":282,"ChandniChowk":379,"Mayapuri":303,"Pitampura":206},
+"May 2009":
+{"Nizamuddin":258,"Shahzada Bagh":204,"Shahdara":202,"Janakpuri":377,"SiriFort":299,"SarojiniNagar":176,"ChandniChowk":282,"Mayapuri":275,"Pitampura":170},
+"Jun 2009":
+{"Nizamuddin":328,"Shahzada Bagh":216,"Shahdara":190,"Janakpuri":366,"SiriFort":388,"SarojiniNagar":222,"ChandniChowk":486,"Mayapuri":294,"Pitampura":172},
+"Jul 2009":
+{"Nizamuddin":265,"Shahzada Bagh":159,"Shahdara":152,"Janakpuri":238,"SiriFort":220,"SarojiniNagar":89,"ChandniChowk":135,"Mayapuri":129,"Pitampura":135},
+"Aug 2009":
+{"Nizamuddin":143,"Shahzada Bagh":147,"Shahdara":130,"Janakpuri":226,"SiriFort":186,"SarojiniNagar":83,"ChandniChowk":138,"Mayapuri":123,"Pitampura":125},
+"Sep 2009":
+{"Nizamuddin":191,"Shahzada Bagh":113,"Shahdara":141,"Janakpuri":210,"SiriFort":160,"SarojiniNagar":109,"ChandniChowk":142,"Mayapuri":203,"Pitampura":134},
+"Oct 2009":
+{"Nizamuddin":279,"Shahzada Bagh":259,"Shahdara":193,"Janakpuri":293,"SiriFort":246,"SarojiniNagar":241,"ChandniChowk":264,"Mayapuri":238,"Pitampura":186},
+"Nov 2009":
+{"Nizamuddin":291,"Shahzada Bagh":284,"Shahdara":249,"Janakpuri":311,"SiriFort":181,"SarojiniNagar":301,"ChandniChowk":463,"Mayapuri":403,"Pitampura":212},
+"Dec 2009":
+{"SarojiniNagar":291,"ChandniChowk":531,"Mayapuri":459},
+"Jan 2010":
+{},
+"Feb 2010":
+{},
+"Mar 2010":
+{},
+"Apr 2010":
+{},
+"May 2010":
+{},
+"Jun 2010":
+{},
+"Jul 2010":
+{},
+"Aug 2010":
+{},
+"Sep 2010":
+{},
+"Oct 2010":
+{},
+"Nov 2010":
+{},
+"Dec 2010":
+{},
+"Jan 2011":
+{"Nizamuddin":348,"Shahzada Bagh":349,"Shahdara":366,"Janakpuri":362,"SiriFort":327,"SarojiniNagar":250,"ChandniChowk":366,"Mayapuri":335,"Pitampura":219},
+"Feb 2011":
+{"Nizamuddin":248,"Shahzada Bagh":281,"Shahdara":271,"Janakpuri":191,"SiriFort":211,"SarojiniNagar":155,"ChandniChowk":280,"Mayapuri":228,"Pitampura":224},
+"Mar 2011":
+{"Nizamuddin":142,"Shahzada Bagh":227,"Shahdara":265,"Janakpuri":142,"SiriFort":189,"SarojiniNagar":165,"ChandniChowk":267,"Mayapuri":205,"Pitampura":188},
+"Apr 2011":
+{"Nizamuddin":177,"Shahzada Bagh":336,"Shahdara":273,"Janakpuri":353,"SiriFort":148,"SarojiniNagar":225,"ChandniChowk":291,"Mayapuri":226,"Pitampura":242},
+"May 2011":
+{"Nizamuddin":224,"Shahzada Bagh":278,"Shahdara":222,"Janakpuri":230,"SiriFort":204,"SarojiniNagar":136,"ChandniChowk":359,"Mayapuri":215,"Pitampura":234},
+"Jun 2011":
+{"Nizamuddin":168,"Shahzada Bagh":177,"Shahdara":167,"Janakpuri":263,"SiriFort":268,"SarojiniNagar":88,"ChandniChowk":221,"Mayapuri":118,"Pitampura":188},
+"Jul 2011":
+{"Nizamuddin":98,"Shahzada Bagh":166,"Shahdara":147,"Janakpuri":180,"SiriFort":149,"SarojiniNagar":59,"ChandniChowk":87,"Mayapuri":88,"Pitampura":176},
+"Aug 2011":
+{"Nizamuddin":86,"Shahzada Bagh":118,"Shahdara":114,"Janakpuri":124,"SiriFort":87,"SarojiniNagar":63,"ChandniChowk":91,"Mayapuri":98,"Pitampura":116},
+"Sep 2011":
+{"Nizamuddin":77,"Shahzada Bagh":115,"Shahdara":112,"Janakpuri":91,"SiriFort":93,"SarojiniNagar":53,"ChandniChowk":101,"Mayapuri":99,"Pitampura":108},
+"Oct 2011":
+{"Nizamuddin":184,"Shahzada Bagh":280,"Shahdara":282,"Janakpuri":167,"SiriFort":225,"SarojiniNagar":165,"ChandniChowk":296,"Mayapuri":231,"Pitampura":260},
+"Nov 2011":
+{"Nizamuddin":252,"Shahzada Bagh":394,"Shahdara":353,"Janakpuri":246,"SiriFort":359,"SarojiniNagar":242,"ChandniChowk":400,"Mayapuri":426,"Pitampura":328},
+"Dec 2011":
+{"Nizamuddin":309,"Shahzada Bagh":386,"Shahdara":351,"Janakpuri":291,"SiriFort":298,"SarojiniNagar":406,"ChandniChowk":449,"Mayapuri":433,"Pitampura":301},
+"Jan 2012":
+{"SarojiniNagar":196,"ChandniChowk":331,"Mayapuri":273},
+"Feb 2012":
+{"SarojiniNagar":143,"ChandniChowk":222,"Mayapuri":266},
+"Mar 2012":
+{"SarojiniNagar":208,"ChandniChowk":230,"Mayapuri":384},
+"Apr 2012":
+{"SarojiniNagar":142,"ChandniChowk":210,"Mayapuri":205},
+"May 2012":
+{"SarojiniNagar":361,"ChandniChowk":377,"Mayapuri":346},
+"Jun 2012":
+{"SarojiniNagar":219,"ChandniChowk":377,"Mayapuri":231},
+"Jul 2012":
+{"SarojiniNagar":93,"ChandniChowk":115,"Mayapuri":148},
+"Aug 2012":
+{"SarojiniNagar":54,"ChandniChowk":92,"Mayapuri":113},
+"Sep 2012":
+{"SarojiniNagar":57,"ChandniChowk":111,"Mayapuri":101},
+"Oct 2012":
+{"SarojiniNagar":179,"ChandniChowk":283,"Mayapuri":366},
+"Nov 2012":
+{"SarojiniNagar":328,"ChandniChowk":466,"Mayapuri":461},
+"Dec 2012":
+{"SarojiniNagar":250,"ChandniChowk":249,"Mayapuri":322},
+"Jan 2013":
+{"SarojiniNagar":299,"ChandniChowk":328,"Mayapuri":408},
+"Feb 2013":
+{"SarojiniNagar":149,"ChandniChowk":219,"Mayapuri":223},
+"Mar 2013":
+{"SarojiniNagar":160,"ChandniChowk":256,"Mayapuri":271},
+"Apr 2013":
+{"SarojiniNagar":167,"ChandniChowk":287,"Mayapuri":317},
+"May 2013":
+{"SarojiniNagar":258,"ChandniChowk":348,"Mayapuri":399},
+"Jun 2013":
+{"SarojiniNagar":170,"ChandniChowk":206},
+"Jul 2013":
+{"SarojiniNagar":77,"ChandniChowk":103},
+"Aug 2013":
+{"SarojiniNagar":81,"ChandniChowk":83,"Mayapuri":97},
+"Sep 2013":
+{"SarojiniNagar":111,"ChandniChowk":100,"Mayapuri":101},
+"Oct 2013":
+{"SarojiniNagar":194,"ChandniChowk":144,"Mayapuri":272},
+"Nov 2013":
+{"SarojiniNagar":285,"ChandniChowk":296,"Mayapuri":445},
+"Dec 2013":
+{"SarojiniNagar":273,"ChandniChowk":228,"Mayapuri":380},
+"Jan 2014":
+{"Nizamuddin":244,"Shahzada Bagh":289,"Shahdara":367,"Janakpuri":241,"SiriFort":226,"SarojiniNagar":268,"ChandniChowk":410,"Mayapuri":393,"Pitampura":262},
+"Feb 2014":
+{"Nizamuddin":233,"Shahzada Bagh":252,"Shahdara":275,"Janakpuri":255,"SiriFort":245,"SarojiniNagar":199,"ChandniChowk":193,"Mayapuri":331,"Pitampura":242},
+"Mar 2014":
+{"Nizamuddin":122,"Shahzada Bagh":186,"Shahdara":182,"Janakpuri":133,"SiriFort":178,"SarojiniNagar":95,"ChandniChowk":131,"Mayapuri":157,"Pitampura":177},
+"Apr 2014":
+{"Nizamuddin":141,"Shahzada Bagh":224,"Shahdara":293,"Janakpuri":201,"SiriFort":196,"SarojiniNagar":122,"ChandniChowk":187,"Mayapuri":231,"Pitampura":185},
+"May 2014":
+{"Nizamuddin":186,"Shahzada Bagh":261,"Shahdara":312,"Janakpuri":255,"SiriFort":213,"SarojiniNagar":123,"ChandniChowk":195,"Mayapuri":209,"Pitampura":179},
+"Jun 2014":
+{"Nizamuddin":160,"Shahzada Bagh":232,"Shahdara":260,"Janakpuri":166,"SiriFort":194,"SarojiniNagar":178,"ChandniChowk":204,"Mayapuri":216,"Pitampura":182},
+"Jul 2014":
+{"Nizamuddin":157,"Shahzada Bagh":151,"Shahdara":242,"Janakpuri":154,"SiriFort":144,"SarojiniNagar":81,"ChandniChowk":116,"Mayapuri":198,"Pitampura":153},
+"Aug 2014":
+{"Nizamuddin":166,"Shahzada Bagh":149,"Shahdara":167,"Janakpuri":121,"SiriFort":145,"SarojiniNagar":85,"ChandniChowk":89,"Mayapuri":150,"Pitampura":141},
+"Sep 2014":
+{"Nizamuddin":92,"Shahzada Bagh":115,"Shahdara":155,"Janakpuri":146,"SiriFort":199,"SarojiniNagar":42,"ChandniChowk":56,"Mayapuri":194,"Pitampura":100},
+"Oct 2014":
+{"Nizamuddin":168,"Shahzada Bagh":247,"Shahdara":233,"Janakpuri":173,"SiriFort":201,"SarojiniNagar":112,"ChandniChowk":149,"Mayapuri":358,"Pitampura":198},
+"Nov 2014":
+{"Nizamuddin":333,"Shahzada Bagh":382,"Shahdara":355,"Janakpuri":265,"SiriFort":341,"SarojiniNagar":278,"ChandniChowk":326,"Mayapuri":526,"Pitampura":253},
+"Dec 2014":
+{"Nizamuddin":246,"Shahzada Bagh":329,"Shahdara":377,"Janakpuri":221,"SiriFort":221,"SarojiniNagar":297,"ChandniChowk":363,"Mayapuri":475,"Pitampura":260},
+"Jan 2015":
+{"Nizamuddin":192,"Shahzada Bagh":314,"Shahdara":273,"Janakpuri":143,"SiriFort":171,"SarojiniNagar":191,"ChandniChowk":267,"Mayapuri":285,"Pitampura":213},
+"Feb 2015":
+{"Nizamuddin":244,"Shahzada Bagh":309,"Shahdara":251,"Janakpuri":158,"SiriFort":147,"SarojiniNagar":186,"ChandniChowk":253,"Mayapuri":303,"Pitampura":253},
+"Mar 2015":
+{"Nizamuddin":192,"Shahzada Bagh":188,"Shahdara":201,"Janakpuri":156,"SiriFort":151,"SarojiniNagar":143,"ChandniChowk":155,"Mayapuri":175,"Pitampura":156},
+"Apr 2015":
+{"Nizamuddin":225,"Shahzada Bagh":232,"Shahdara":279,"Janakpuri":188,"SiriFort":184,"SarojiniNagar":123,"ChandniChowk":327,"Mayapuri":275,"Pitampura":170},
+"May 2015":
+{"Nizamuddin":196,"Shahzada Bagh":233,"Shahdara":261,"Janakpuri":116,"SiriFort":94,"SarojiniNagar":162,"ChandniChowk":254,"Mayapuri":439,"Pitampura":242},
+"Jun 2015":
+{"Nizamuddin":179,"Shahzada Bagh":280,"Shahdara":290,"Janakpuri":145,"SiriFort":137,"SarojiniNagar":114,"ChandniChowk":145,"Mayapuri":205,"Pitampura":218},
+"Jul 2015":
+{"Nizamuddin":185,"Shahzada Bagh":212,"Shahdara":165,"Janakpuri":218,"SiriFort":194,"SarojiniNagar":40,"ChandniChowk":80,"Mayapuri":118,"Pitampura":228},
+"Aug 2015":
+{"Nizamuddin":202,"Shahzada Bagh":104,"Shahdara":166,"Janakpuri":177,"SiriFort":175,"SarojiniNagar":54,"ChandniChowk":54,"Mayapuri":90,"Pitampura":198},
+"Sep 2015":
+{"Nizamuddin":238,"Shahzada Bagh":198,"Shahdara":203,"Janakpuri":192,"SiriFort":156,"SarojiniNagar":63,"ChandniChowk":96,"Mayapuri":212,"Pitampura":208},
+"Oct 2015":
+{"Nizamuddin":270,"Shahzada Bagh":255,"Shahdara":271,"Janakpuri":246,"SiriFort":256,"SarojiniNagar":122,"ChandniChowk":164,"Mayapuri":290,"Pitampura":310},
+"Nov 2015":
+{"Nizamuddin":277,"Shahzada Bagh":397,"Shahdara":312,"Janakpuri":261,"SiriFort":261,"SarojiniNagar":302,"ChandniChowk":296,"Mayapuri":360,"Pitampura":359},
+"Dec 2015":
+{"Nizamuddin":299,"Shahzada Bagh":301,"Shahdara":368,"Janakpuri":361,"SiriFort":355,"SarojiniNagar":295,"ChandniChowk":325,"Mayapuri":421,"Pitampura":296}
+}
+}
